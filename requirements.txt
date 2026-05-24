@@ -1,0 +1,11 @@
+gradio
+langchain-google-genai
+langchain-groq
+transformers
+torch
+diffusers
+deepface
+gtts
+googletrans==4.0.0-rc1
+pytesseract
+Pillow
