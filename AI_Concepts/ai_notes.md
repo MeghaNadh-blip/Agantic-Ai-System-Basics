@@ -274,8 +274,6 @@ It helps developers:
 ## Popular Platforms
 
 * [Hugging Face](https://huggingface.co?utm_source=chatgpt.com)
-* [Kaggle](https://www.kaggle.com?utm_source=chatgpt.com)
-* [Medium](https://medium.com?utm_source=chatgpt.com)
 
 ---
 
