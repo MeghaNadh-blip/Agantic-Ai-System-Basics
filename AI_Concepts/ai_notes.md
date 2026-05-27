@@ -462,7 +462,6 @@ AI is expected to become one of the most influential technologies of the future.
 * Machine Learning
 * Deep Learning
 * Computer Vision
-* NLP (Natural Language Processing)
 * Generative AI
 * Agentic AI
 * Ollama
