@@ -55,4 +55,4 @@ Agentic-AI-Basics/
 
 ## Author
 
-Meghanadhsai Nalluri
+Meghanadh Nalluri
