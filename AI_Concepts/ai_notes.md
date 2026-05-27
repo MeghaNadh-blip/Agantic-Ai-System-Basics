@@ -371,46 +371,49 @@ Prompt Engineering is the process of writing effective prompts to get accurate r
 
 ---
 
-## Zero-Shot Prompting
+## Types of Prompting
 
-Directly asking AI without examples.
+1. **Zero-Shot Prompting**  
+   Asking AI directly without examples.
 
-### Example
+2. **One-Shot Prompting**  
+   Giving one example before asking.
 
-```text id="x9khud"
-Explain Artificial Intelligence.
-```
+3. **Few-Shot Prompting**  
+   Giving multiple examples before asking.
 
----
+4. **Chain of Thought Prompting**  
+   Asking AI to solve step-by-step.
 
-## Few-Shot Prompting
+5. **Role-Based Prompting**  
+   Giving AI a role like teacher, coder, or doctor.
 
-Providing a few examples before asking the AI to perform a task.
+6. **Instruction Prompting**  
+   Giving clear instructions for the task.
 
----
+7. **Contextual Prompting**  
+   Providing background information before asking.
 
-## Chain of Thought (CoT) Prompting
+8. **Task Decomposition Prompting**  
+   Breaking a big task into smaller steps.
 
-AI thinks step-by-step before answering.
+9. **ReAct Prompting**  
+   AI reasons and takes actions using tools.
 
-### Example
+10. **Self-Consistency Prompting**  
+   Asking AI to think in multiple ways and choose the best answer.
 
-```text id="lf6q8i"
-Solve the problem step-by-step.
-```
+11. **Tree of Thoughts Prompting**  
+   Exploring different possible solutions before final answer.
 
----
+12. **Persona Prompting**  
+   Asking AI to respond in a specific style or personality.
 
-## Role-Based Prompting
+13. **Negative Prompting**  
+   Telling AI what not to include.
 
-Assigning a role to AI.
-
-### Example
-
-```text id="n9vzzx"
-Act as a Python expert.
-```
-
+14. **Multimodal Prompting**  
+   Using text with images, audio, or video as input.
 ---
 
 # 13. Simple Chatbot using Groq
